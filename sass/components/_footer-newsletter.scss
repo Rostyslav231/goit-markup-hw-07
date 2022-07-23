@@ -1,0 +1,33 @@
+.newsletter {
+    margin-left: auto;
+  }
+  
+  .newsletter__subscribe {
+    color: var(--color-color4);
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+  }
+  
+  .form-foot__subscribe-email-foot {
+    margin-top: 20px;
+    padding-left: 16px;
+    padding-top: 15px;
+    height: 50px;
+    padding-bottom: 15px;
+    width: 358px;
+    border-radius: 4px;
+    background-color: var(--input-foot);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    color: var(--color-color4);
+  }
+  
+  .form-foot {
+    display: flex;
+    align-items: baseline;
+  }
+  
+  .icon-foot {
+    margin-left: 10px;
+  }
